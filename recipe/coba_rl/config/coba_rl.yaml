@@ -1,0 +1,10 @@
+hydra:
+  searchpath:
+    - file://verl/trainer/config
+
+defaults:
+  - ppo_trainer
+  - _self_
+
+trainer:
+  project_name: coba-rl
