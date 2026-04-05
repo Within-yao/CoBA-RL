@@ -95,11 +95,14 @@ CoBA-RL/
 If you find this work useful in your research, please consider citing:
 
 ```bibtex
-@article{yao2025coba,
-  title={CoBA-RL: Capability-Oriented Budget Allocation for Reinforcement Learning in LLMs},
-  author={Yao, Zhiyuan and Zhang, Yi-Kai and Chen, Yuxin and Sun, Yueqing and Xu, Zishan and Yang, Yu and Hu, Tianhao and Gu, Qi and Su, Hui and Cai, Xunliang},
-  journal={arXiv preprint arXiv:2602.03048},
-  year={2025}
+@misc{yao2026coba,
+  title={CoBA-RL: Capability-Oriented Budget Allocation for Reinforcement Learning in LLMs}, 
+  author={Zhiyuan Yao and Yi-Kai Zhang and Yuxin Chen and Yueqing Sun and Zishan Xu and Yu Yang and Tianhao Hu and Qi Gu and Hui Su and Xunliang Cai},
+  year={2026},
+  eprint={2602.03048},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG},
+  url={https://arxiv.org/abs/2602.03048}, 
 }
 ```
 
